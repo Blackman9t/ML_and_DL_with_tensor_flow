@@ -1,4 +1,4 @@
-# ML_and_DL_with_tensor_flow
+# ML_and_DL_with_tensor_flow_and_colab
 Using The popular tensor_flow library for Machine Learning and Deep Learning Projects
 
 The first thing we need to know is that Deep Learning is about Neural Networks
